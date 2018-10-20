@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWatch_Assignment3/TableViews/SignUpViewController.swift"
+            timestampString = "545621094.366915"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "submitPressed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWatch_Assignment3/TableViews/SignUpViewController.swift"
+            timestampString = "545621094.3669831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "submitPressed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWatch_Assignment3.SignUpViewController.submitPressed() -&gt; ()"
+                  moduleName = "MovieWatch_Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asondhi/Desktop/MovieWatch_Assignment4/MovieWatch_Assignment3/TableViews/SignUpViewController.swift"
+                  timestampString = "545289344.265623"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "5231">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MovieWatch_Assignment3.SignUpViewController.submitPressed() -&gt; ()"
+                  moduleName = "MovieWatch_Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asondhi/Desktop/MovieWatch_Assignment4/MovieWatch_Assignment3/TableViews/SignUpViewController.swift"
+                  timestampString = "545289344.2676899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWatch_Assignment3/TableViews/DetailViewController.swift"
+            timestampString = "545628845.7935489"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWatch_Assignment3.DetailViewController.movieResults.getter : Swift.Optional&lt;MovieWatch_Assignment3.MovieAttrInfo&gt;"
+                  moduleName = "MovieWatch_Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asondhi/Desktop/MovieWatch_Assignment4/MovieWatch_Assignment3/TableViews/DetailViewController.swift"
+                  timestampString = "545281622.1973979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWatch_Assignment3.DetailViewController.movieResults.setter : Swift.Optional&lt;MovieWatch_Assignment3.MovieAttrInfo&gt;"
+                  moduleName = "MovieWatch_Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asondhi/Desktop/MovieWatch_Assignment4/MovieWatch_Assignment3/TableViews/DetailViewController.swift"
+                  timestampString = "545281622.199375"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "1603">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWatch_Assignment3.DetailViewController.init(style: __C.UITableViewStyle) -&gt; MovieWatch_Assignment3.DetailViewController"
+                  moduleName = "MovieWatch_Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asondhi/Desktop/MovieWatch_Assignment4/MovieWatch_Assignment3/TableViews/DetailViewController.swift"
+                  timestampString = "545281622.201319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWatch_Assignment3.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MovieWatch_Assignment3.DetailViewController"
+                  moduleName = "MovieWatch_Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asondhi/Desktop/MovieWatch_Assignment4/MovieWatch_Assignment3/TableViews/DetailViewController.swift"
+                  timestampString = "545281622.203408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "562">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWatch_Assignment3.DetailViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;MovieWatch_Assignment3.DetailViewController&gt;"
+                  moduleName = "MovieWatch_Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asondhi/Desktop/MovieWatch_Assignment4/MovieWatch_Assignment3/TableViews/DetailViewController.swift"
+                  timestampString = "545281622.205238"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "487">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWatch_Assignment3/TableViews/AppUser.swift"
+            timestampString = "545628845.7936209"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "init(snapshot:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
